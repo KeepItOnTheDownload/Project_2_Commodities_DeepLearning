@@ -15,7 +15,10 @@
   * [Sentiment Analysis Dashboard](#sentiment-analysis-dashboard)
 
 ![model setup](/images/supplychain.jpg)
-In this project we evaluate metal commodities used in the production of SemiConductor and Chip manufacturing. With our deep learning algo  we aim  to help stock investors in their decision making around investments in technology stocks, using NLP alternative data to seperate ourselves from the competitors.
+
+
+In this project we evaluate metal commodities used in the production of SemiConductor and Chip manufacturing. With our deep
+learning algo  we aim  to help stock investors in their decision making around investments in technology stocks, using NLP alternative data to seperate ourselves from the competitors.
 This allows them to have different type of approach in understanding  and analysing the data using  the information from supply chain companies.
 The team developed an interest in evaluating supply chain companies used by Intel LLC. 
 After obtaining as much data as we had, the team found that there is strong correlation between commodity prices and tech company stock prices.
